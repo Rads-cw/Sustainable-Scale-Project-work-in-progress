@@ -5,7 +5,7 @@ An embedded system designed to **measure and quantify food waste using weight**.
 ## Prototype
 
 <p align="center">
-  <img src="IMG_0801.jpeg" width="700">
+  <img src="media/IMG_0801.jpeg" width="700">
 </p>
 
 <p align="center">
